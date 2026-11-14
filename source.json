@@ -1,0 +1,10 @@
+{
+  "scrapers": [
+    {
+      "name": "Terence Tao",
+      "urlPattern": "terrytao.wordpress.com",
+      "searchUrl": "https://terrytao.wordpress.com/?s={term}"
+    }
+  ],
+  "file": "terrytao.js"
+}
